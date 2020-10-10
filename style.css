@@ -1,0 +1,43 @@
+p{
+    font-size: 25px;
+    color: #2D1E2F;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 30px;
+}
+h1{
+    font-size: 35px;
+    color: #F72C25;
+    font-family: 'Anton', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin-bottom: 30px;
+margin-left: 50px;
+
+}
+body{
+    background-color: #CBD2D0;
+}
+img{
+max-width: 200px;
+margin: auto;
+display: block;
+}
+div
+{
+width: 70%;
+margin: auto;
+background-color: antiquewhite;
+padding: 30px;
+box-shadow: 0 0 100px 1px rgba(0,0,0,0.3);}
+a{
+color: sienna;
+font-size: 30px;
+font-family: cursive;
+text-decoration: none;
+border-bottom: 1px solid transparent;
+transition: all 1s ease;
+}
+a:hover{
+color: yellowgreen;
+border-color: yellowgreen;
+transition: all 0,3s ease;
+}
